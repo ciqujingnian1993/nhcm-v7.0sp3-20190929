@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="nhcm-v7.0sp3-20190929:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/nhcm_v7_0sp3_20190929_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="nhcm-v7.0sp3-20190929/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="nhcm-v7.0sp3-20190929" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

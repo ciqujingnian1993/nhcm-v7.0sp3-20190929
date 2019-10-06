@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nhcm-v7.0sp3-20190929:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nhcm_v7_0sp3_20190929_jar</output-path>
+    <root id="archive" name="nhcm-v7.0sp3-20190929.jar">
+      <element id="module-output" name="nhcm-v7.0sp3-20190929" />
+    </root>
+  </artifact>
+</component>
